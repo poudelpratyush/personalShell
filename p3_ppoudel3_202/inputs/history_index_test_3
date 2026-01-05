@@ -1,0 +1,8 @@
+cd inc/
+cd ..
+cd inputs/
+history 1
+cd inputs/
+cd data/
+new ls
+execute 0

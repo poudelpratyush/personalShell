@@ -1,0 +1,9 @@
+new tail -n 8 yoshikage.txt
+new cat
+new wc
+open 1 vegeta.txt
+open 2 dio.txt
+list
+execute 2
+execute 1
+execute 0
